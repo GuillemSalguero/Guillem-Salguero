@@ -1,0 +1,113 @@
+.header {
+    background-color: #B4B8B7; /* Color de fondo gris */
+    border-top: 10px solid white; /* Línea gris en la parte superior */
+    text-align: center;
+    padding: 25px 0;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 26px;
+    font-family: Arial, sans-serif;
+    flex: 1;
+    color: #4A4646;
+    margin-left: 16%
+
+
+}
+
+.perfil {
+
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+
+}
+.subname {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #4A4646;
+    margin-left: 10%
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+/*.left-text, .right-text {
+    flex: 2;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}*/
+
+.right-text {
+
+    flex: 1;
+    text-align: left;
+    color: #4E4D4D; /* Cambiar el color del texto del enlace a negro */
+    text-decoration: none;
+    font-family: system-ui;
+    margin-right: 20%
+}
+
+.left-text {
+    margin-left: 15%;
+    flex: 1;    
+    color: #4E4D4D; /* Cambiar el color del texto del enlace a negro */
+    text-decoration: none;
+    text-align: left;
+    font-family: system-ui;
+}
+
+.line {
+    width: 1.5px; /* Ancho de la línea vertical */
+    background-color: #696868; /* Color de la línea */
+    height: 90%; /* Altura que llega hasta abajo */
+    position: absolute;
+    left: 40%; /* Coloca la línea en el centro horizontal */
+    /*transform: translateX(-50%);  Alinea la línea correctamente en el centro */
+    top: 22%; /* Alinea la línea verticalmente en el centro */
+    bottom: 10%; /* Alinea la línea verticalmente en el centro */
+}
+
+.line2 {
+    width: 67%;
+    border: none;
+    border-top: 1.5px solid #696868;
+    position: absolute;
+    top: 50%;
+    left: 13%; 
+    right: 20%;
+}
+
+.line3 {
+    width: 67%;
+    border: none;
+    border-top: 1.5px solid #696868;
+    position: absolute;
+    top: 86%;;
+    left: 13%; 
+    right: 20%;
+}
+
+
+.image img  {
+    position: absolute;
+    top: 5%; /* 20% desde la parte superior */
+    right: 25%; 
+    width:130px;
+    height:130px;
+    border-radius:150px;
+}
+
+.image2 img  {
+    position: absolute;
+    top: 30%; /* 20% desde la parte superior */
+    right: 83.5%; 
+    width:70px;
+    height:110px;
+}
