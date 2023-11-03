@@ -1,1 +1,17 @@
-# Guillem-Salguero
+In this particular practice, I've meticulously crafted my curriculum vitae, both in Figma and through HTML/CSS. The intended audience for this webpage primarily comprises human resources professionals in search of a software engineer. What sets this webpage apart is its succinct yet comprehensive design. You won't find an overwhelming amount of information here, as the content has been thoughtfully curated to ensure you don't need to scroll endlessly to access vital information.
+
+The design of the page emphasizes a clean and elegant visual style. It predominantly features a combination of whites and dark grays to create a polished and professional appearance. The photo is highlighted with subtle greenish tones, serving to draw attention to the individual behind the résumé. This meticulous selection of colors and contrast has been intentionally chosen to create a visual hierarchy, making it easy for recruiters to navigate and understand the content.
+
+The overarching design philosophy here is minimalism. The emphasis is on presenting the most critical information to the user without any visual clutter. This approach is deliberately user-centric, with a focus on providing an efficient and pleasant user experience. By employing soft color tones, the design also ensures that the webpage remains gentle on the user's eyes, even during extended periods of browsing.
+
+The homepage of the webpage features the name, title, and a professional photograph. These elements are showcased prominently, creating an immediate impression of the individual's identity and professional demeanor. The menu provides easy navigation to various sections of the curriculum vitae, ensuring that recruiters can effortlessly find the information they are looking for.
+
+As you delve deeper into the webpage, you will find sections dedicated to various aspects of the curriculum vitae, including educational background, skills, professional experience, and language proficiency. Each section is structured in a concise and informative manner, providing recruiters with a clear and detailed understanding of the candidate's qualifications and experiences.
+
+The first thing you will see will be the phone number or the email, making it easy to contact me and ask me whatever the user wants to know, facilitating a more human touch.
+
+The skills section highlights the candidate's technical and soft skills, offering a comprehensive overview of their abilities. Recruiters can quickly identify the skills that align with the requirements of the position they are looking to fill. The language proficiency section is equally transparent, showcasing the candidate's language capabilities, a valuable asset in today's global job market.
+
+By maintaining a minimalistic and user-focused design, this webpage effectively conveys critical information, presenting the candidate as a strong fit for the role of a software engineer. The visual style, characterized by its cleanliness and gentle color palette, enhances the overall user experience. Recruiters can easily navigate the page, finding the information they need to make informed decisions in their hiring process.
+
+In conclusion, this meticulously designed curriculum vitae webpage offers a user-centric experience to recruiters seeking a software engineer. Its minimalistic and polished style, combined with effective content organization, ensures that recruiters can efficiently assess the candidate's qualifications and experiences. This webpage embodies the candidate's professionalism, making a compelling case for their suitability for the role.
